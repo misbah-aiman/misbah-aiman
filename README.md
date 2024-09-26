@@ -10,5 +10,3 @@ My Goals:
 - Improve coding skills through collaborative projects
 - Learn from experienced developers and mentors
 - Build a strong presence through GitHub
-
-Feel free to modify this draft to fit your personal style and preferences!
